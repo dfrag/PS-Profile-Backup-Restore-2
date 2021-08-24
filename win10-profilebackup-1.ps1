@@ -1,4 +1,5 @@
-$destination = "\\alt-elp-st01\homedrive$\lsalinas"
+$destination = "OneDrive"
+##"\\alt-elp-st01\homedrive$\lsalinas" ### replace with one drive location ###
 
 $folder = "Desktop",
 "Downloads",
